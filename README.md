@@ -13,3 +13,15 @@ K. Practice PR
 L. Practice PR
 M. Practice PR
 N. Practice PR
+O. Practice PR
+P. Practice PR
+Q. Practice PR
+R. Practice PR
+S. Practice PR
+T. Practice PR
+U. Practice PR
+V. Practice PR
+W. Practice PR
+X. Practice PR
+Y. Practice PR
+Z. Practice PR
